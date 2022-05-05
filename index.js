@@ -5,3 +5,4 @@ function catchme (){
     return ans;
 }
  catchme();
+ catchme();
